@@ -25,7 +25,7 @@ Compiled version of heart-art to give a side-by-side comparison of the diversity
 pulses are combined through the algorithm.
 
 ## References I Used to Learn How to Make It:
-Raphael Lozano-Hemmer Code - https://github.com/antimodular/PulseTank_osc
-Daniel Shiffman's Coding Train Lissajous Tutorial - https://www.youtube.com/watch?v=--6eyLO78CY
-Pulse Sensor Library for Processing - https://github.com/WorldFamousElectronics/PulseSensor_Amped_Processing_Visualizer
-Pulse Sensor Library for Arduino - https://pulsesensor.com/pages/getting-advanced
+<b>Raphael Lozano-Hemmer Code</b> - https://github.com/antimodular/PulseTank_osc
+<b>Daniel Shiffman's Coding Train Lissajous Tutorial</b> - https://www.youtube.com/watch?v=--6eyLO78CY
+<b>Pulse Sensor Library for Processing</b> - https://github.com/WorldFamousElectronics/PulseSensor_Amped_Processing_Visualizer
+<b>Pulse Sensor Library for Arduino</b> - https://pulsesensor.com/pages/getting-advanced
