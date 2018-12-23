@@ -21,6 +21,7 @@ each participant. Children like to color them in. With added Hirshhorn branding,
 from the exhibit to be reminded of the time they spent at the museum.
 
 ![Hirshhorn Hemmer-O-Graph Takeaway Examples]("https://raw.githubusercontent.com/ianmcdermott/HOG-Digital/master/images/Hemmer-O-Graph-low-Res.png")
+
 Compiled version of heart-art to give a side-by-side comparison of the diversity of shapes when various 
 pulses are combined through the algorithm.
 
