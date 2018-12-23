@@ -16,14 +16,13 @@ The application draws the pattern in realtime, currently in two formats, as ligh
 lines. In this way, visitors are able to create an abstract two-person portrait.
 
 ![Heartbeat Lissajous Table](https://raw.githubusercontent.com/ianmcdermott/HOG-Digital/master/images/HOG-Row.png)
-After the drawing has built up, the result is exported and printed in two copies as a take away for 
+<i>After the drawing has built up, the result is exported and printed in two copies as a take away for 
 each participant. Children like to color them in. With added Hirshhorn branding, this acts as a takeaway 
-from the exhibit to be reminded of the time they spent at the museum.
+from the exhibit to be reminded of the time they spent at the museum.</i>
 
-![Hirshhorn Hemmer-O-Graph Takeaway Examples]("https://raw.githubusercontent.com/ianmcdermott/HOG-Digital/master/images/Hemmer-O-Graph-low-Res.png")
-
-Compiled version of heart-art to give a side-by-side comparison of the diversity of shapes when various 
-pulses are combined through the algorithm.
+![Hirshhorn Hemmer-O-Graph Takeaway Examples](https://raw.githubusercontent.com/ianmcdermott/HOG-Digital/master/images/Hemmer-O-Graph-low-Res.png)
+<i>Compiled version of heart-art to give a side-by-side comparison of the diversity of shapes when various 
+pulses are combined through the algorithm.</i>
 
 ## References I Used to Learn How to Make It:
 <b>Raphael Lozano-Hemmer Code</b> - https://github.com/antimodular/PulseTank_osc
