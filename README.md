@@ -15,12 +15,12 @@ variables, processed by a Lissajous algorithm, which produces a pattern based on
 The application draws the pattern in realtime, currently in two formats, as lightening bugs and as dotted 
 lines. In this way, visitors are able to create an abstract two-person portrait.
 
-![Hirshhorn Hemmer-O-Graph Takeaway Examples](http://url/to/img.png)
+![Heartbeat Lissajous Table](https://raw.githubusercontent.com/ianmcdermott/HOG-Digital/master/images/HOG-Row.png)
 After the drawing has built up, the result is exported and printed in two copies as a take away for 
 each participant. Children like to color them in. With added Hirshhorn branding, this acts as a takeaway 
 from the exhibit to be reminded of the time they spent at the museum.
 
-![Heartbeat Lissajous Table](http://url/to/img.png)
+![Hirshhorn Hemmer-O-Graph Takeaway Examples]("https://raw.githubusercontent.com/ianmcdermott/HOG-Digital/master/images/Hemmer-O-Graph-low-Res.png")
 Compiled version of heart-art to give a side-by-side comparison of the diversity of shapes when various 
 pulses are combined through the algorithm.
 
