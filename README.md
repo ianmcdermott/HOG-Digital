@@ -24,7 +24,7 @@ from the exhibit to be reminded of the time they spent at the museum.</i>
 <i>Compiled version of heart-art to give a side-by-side comparison of the diversity of shapes when various 
 pulses are combined through the algorithm.</i>
 
-## References I Used to Learn How to Make It:
+## References Used to Learn How to Make It:
 <b>Raphael Lozano-Hemmer Code</b> - https://github.com/antimodular/PulseTank_osc </br>
 <b>Daniel Shiffman's Coding Train Lissajous Tutorial</b> - https://www.youtube.com/watch?v=--6eyLO78CY </br>
 <b>Pulse Sensor Library for Processing</b> - https://github.com/WorldFamousElectronics/PulseSensor_Amped_Processing_Visualizer </br>
