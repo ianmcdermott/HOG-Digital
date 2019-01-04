@@ -1,5 +1,3 @@
-
-
 void serialEvent(Serial port){
 try{
    String inData = port.readStringUntil('\n');
