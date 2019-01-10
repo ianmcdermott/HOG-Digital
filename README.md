@@ -24,6 +24,9 @@ from the exhibit to be reminded of the time they spent at the museum.</i>
 <i>Compiled version of heart-art to give a side-by-side comparison of the diversity of shapes when various 
 pulses are combined through the algorithm.</i>
 
+## More Info On My Website
+www.ian-mcd.com/hog-digital
+
 ## References Used to Learn How to Make It:
 <b>Raphael Lozano-Hemmer Code</b> - https://github.com/antimodular/PulseTank_osc </br>
 <b>Daniel Shiffman's Coding Train Lissajous Tutorial</b> - https://www.youtube.com/watch?v=--6eyLO78CY </br>
